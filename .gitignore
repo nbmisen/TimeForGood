@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Xcode / Swift
+xcuserdata/
+DerivedData/
+.build/
+.swiftpm/
+
+# Local secrets and env files (never commit)
+.env
+.env.*
+*.pem
